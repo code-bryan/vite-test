@@ -533,6 +533,11 @@
   resolved "https://registry.yarnpkg.com/@types/amplitude-js/-/amplitude-js-8.16.2.tgz#2cfb850a01a4171e632498821f92e45bef23c952"
   integrity sha512-a+tb/CEQOlrHRvEvAuYNOcoUy1POERANnAhfKgiTmsy0eACj3eukGP0ucA9t115QOPzVUhbnUfZqtyHp99IZyA==
 
+"@types/i18n-js@^3.8.0":
+  version "3.8.4"
+  resolved "https://registry.yarnpkg.com/@types/i18n-js/-/i18n-js-3.8.4.tgz#d82acfe3b1fbfbb9ae7eff84360a6ae436ba14d7"
+  integrity sha512-lXIJLglOZsa81DzqiiG99xF6qGJvwRGqzCQe1FB+/JhgVTyGGVa63DMopEQMJdpAlUUSdJsIhC7sw5xDfDjXWw==
+
 "@types/lodash@^4.14.165":
   version "4.14.191"
   resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.191.tgz#09511e7f7cba275acd8b419ddac8da9a6a79e2fa"
